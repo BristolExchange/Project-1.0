@@ -12,7 +12,10 @@ For help getting started with Flutter development, view the
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+
+[![CircleCI](https://circleci.com/gh/GunPointCoders/harvest/tree/master.svg?style=svg)](https://circleci.com/gh/GunPointCoders/harvest/tree/master)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Assets
 
